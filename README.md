@@ -1,4 +1,5 @@
 # Sudoku
+The puzzle game that is implemented using Pygame.
 
 <img src="https://github.com/AniAmbroladze/Sudoku/assets/45206411/1c85a230-ff9f-4d38-a4b0-8aa987443df8" width="50%" >
 
